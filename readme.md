@@ -178,10 +178,6 @@ Pull requests welcome! Please open an issue first to discuss major changes.
 
 ---
 
-## 📄 License
-
-MIT — free to use, modify, and distribute.
-
 ---
 
 *Built with React + Electron · Powered by Google Places API*
